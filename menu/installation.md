@@ -7,19 +7,19 @@ You will need to bring a laptop for this course to work on data analytics practi
 
 If you cannot bring a laptop to the course please let us know asap.
 
-# 1 Install Base-R and RStudio on your laptops
+## Install Base-R and RStudio on your laptops
 
 Use the following links to install the newest versions of Base-R und RStudio.
 
-## a Installiert Base-R
+#### Install Base-R
 Windows: https://cran.r-project.org/bin/windows/base/R-3.6.2-win.exe
 Mac: https://cran.r-project.org/bin/macosx/R-3.6.2.pkg
 
-## b Installiert RStudio
+#### Install RStudio
 Windows: https://download1.rstudio.org/desktop/windows/RStudio-1.2.5033.exe
 Mac: https://download1.rstudio.org/desktop/macos/RStudio-1.2.5033.dmg
 
-# 2 Install additional software
+## Install additional software
 
 In order for some R packages to work please additionally install RTools (if you use Windows) und gfortran und clang-7.0.0 (if you use Mac). Use the following links to download the respective installers and run them.
 
@@ -27,7 +27,7 @@ RTools for Windows: https://cran.r-project.org/bin/windows/Rtools/Rtools35.exe
 gfortran for Mac: https://cran.r-project.org/bin/macosx/tools/gfortran-6.1.pkg
 clang-7.0.0 for Mac: https://cran.r-project.org/bin/macosx/tools/clang-7.0.0.pkg
 
-# 3 Install the necessary packages
+## Install the necessary packages
 
 For this course we will rely on various R packages that need to be installed. To do this run the following code within your R Console within R Studio.
 
@@ -37,7 +37,7 @@ Important: to avoid problems during the installation of packages, please enter *
 
 If you do not know how to run this code in R please let us know asap.
 
-# 4 Complete Swirl exercises
+## Complete Swirl tutorial
 
 Swirl is an interactive learning environment for R. Please run the following code to install Swirl in your R.
 
