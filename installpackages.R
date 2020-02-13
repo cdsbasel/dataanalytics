@@ -156,9 +156,8 @@ analytics_package_installation <- function() {
 
 
   message("--------------------------------")
-  message("Bis bald im Bootcamp")
-  message("therbootcamp@gmail.com")
-  message("www.therbootcamp.com")
+  message("See you soon in the course")
+  message("cdsbasel.github.io/dataanalytics/")
   message("--------------------------------")
 
 }
