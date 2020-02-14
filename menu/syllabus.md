@@ -32,11 +32,11 @@ td {
 </style>
 
 <table cellspacing="0" cellpadding="0">
-<th>
+<tr>
   <td><b>Session</b></td>
   <td><b>Date</b></td>
   <td><b>Contents</b></td>
-</th>
+</tr>
 <tr>
   <td>1</td>
   <td>21.02.2020</td>
