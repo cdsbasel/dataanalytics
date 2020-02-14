@@ -12,19 +12,19 @@ If you cannot bring a laptop to the course please let us know asap.
 Use the following links to install the newest versions of Base-R und RStudio.
 
 ### Install Base-R
-Windows: <a href="https://cran.r-project.org/bin/windows/base/R-3.6.2-win.exe">https://cran.r-project.org/bin/windows/base/R-3.6.2-win.exe</a>
+Windows: <a href="https://cran.r-project.org/bin/windows/base/R-3.6.2-win.exe">https://cran.r-project.org/bin/windows/base/R-3.6.2-win.exe</a><br>
 Mac: <a href="https://cran.r-project.org/bin/macosx/R-3.6.2.pkg">https://cran.r-project.org/bin/macosx/R-3.6.2.pkg</a>
 
 ### Install RStudio
-Windows: <a href="https://download1.rstudio.org/desktop/windows/RStudio-1.2.5033.exe">https://download1.rstudio.org/desktop/windows/RStudio-1.2.5033.exe</a>
+Windows: <a href="https://download1.rstudio.org/desktop/windows/RStudio-1.2.5033.exe">https://download1.rstudio.org/desktop/windows/RStudio-1.2.5033.exe</a><br>
 Mac: <a href="https://download1.rstudio.org/desktop/macos/RStudio-1.2.5033.dmg">https://download1.rstudio.org/desktop/macos/RStudio-1.2.5033.dmg</a>
 
 ## 2 - Install additional software
 
 In order for some R packages to work please additionally install RTools (if you use Windows) und gfortran und clang-7.0.0 (if you use Mac). Use the following links to download the respective installers and run them.
 
-RTools for Windows: <a href="https://cran.r-project.org/bin/windows/Rtools/Rtools35.exe">https://cran.r-project.org/bin/windows/Rtools/Rtools35.exe</a>
-gfortran for Mac: <a href="https://cran.r-project.org/bin/macosx/tools/gfortran-6.1.pkg">https://cran.r-project.org/bin/macosx/tools/gfortran-6.1.pkg</a>
+RTools for Windows: <a href="https://cran.r-project.org/bin/windows/Rtools/Rtools35.exe">https://cran.r-project.org/bin/windows/Rtools/Rtools35.exe</a><br>
+gfortran for Mac: <a href="https://cran.r-project.org/bin/macosx/tools/gfortran-6.1.pkg">https://cran.r-project.org/bin/macosx/tools/gfortran-6.1.pkg</a><br>
 clang-7.0.0 for Mac: <a href="https://cran.r-project.org/bin/macosx/tools/clang-7.0.0.pkg">https://cran.r-project.org/bin/macosx/tools/clang-7.0.0.pkg</a>
 
 ## 3 - Install necessary packages
