@@ -23,6 +23,12 @@ The course is graded as PASS/FAIL. Students can receive a PASS if they fulfill t
 ## Agenda
 The course consists of 4 sessions on the following Fridays (ca. 9:00 to 16:00)
 
+<style>
+td {
+  padding: 10px;
+}
+</style>
+
 <table cellspacing="0" cellpadding="0">
 <th>
   <td>Session</td>
