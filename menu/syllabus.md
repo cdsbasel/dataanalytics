@@ -31,9 +31,9 @@ td {
 
 <table cellspacing="0" cellpadding="0">
 <th>
-  <td>Session</td>
-  <td>Date</td>
-  <td>Contents</td>
+  <td><b>Session</b></td>
+  <td><b>Date</b></td>
+  <td><b>Contents</b></td>
 </th>
 <tr>
   <td>1</td>
