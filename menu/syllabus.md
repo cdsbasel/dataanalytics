@@ -25,7 +25,7 @@ The course consists of 4 sessions on the following Fridays (ca. 9:00 to 16:00)
 
 <style>
 td {
-  padding-right: 10px;
+  padding-right: 12px;
   padding-bottom: 6px;
   vertical-align: top;
 }
