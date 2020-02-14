@@ -63,4 +63,4 @@ td {
 </table>
 
 ## Course Readings
-Course <a href="menu/readings"><b>Readings</b></a> will be provided throughout the semester.
+Course <a href="readings"><b>readings</b></a> will be provided throughout the semester.
