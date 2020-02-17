@@ -5,10 +5,10 @@ title: Student projects
 
 ## Guidelines
 
-1. Develop a specific question about real-world human behavior and address it using existing, publicly available datasets
-2. Choose a topic related to human resources, marketing, consumer behavior and similar domains
-3. Identify data containing human responses (e.g., ratings, reviews, choices, behavior, etc.) from <a href="https://www.kaggle.com/datasets"><b>kaggle</b></a>
-4. Keep to the timeline
+1. Develop a specific question about real-world human behavior and address it using existing, publicly available datasets.
+2. Choose a topic related to human resources, marketing, consumer behavior and similar domains.
+3. Identify data containing human responses (e.g., ratings, reviews, choices, behavior, etc.) from the <a href="https://www.kaggle.com/datasets"><b>kaggle</b></a> data repository.
+4. Keep to the timeline.
 
 ## Project timeline
 
