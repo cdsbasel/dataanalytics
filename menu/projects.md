@@ -15,47 +15,47 @@ title: Student projects
 <table>
   <table cellspacing="0" cellpadding="0">
   <tr>
-    <td style="text-align:center"><b>When</b></td>
-    <td style="text-align:center"><b>What</b></td>
+    <td ><b>When</b></td>
+    <td ><b>What</b></td>
   </tr>
   <tr>
-    <td style="text-align:center">21.02.</td>
+    <td >21.02.</td>
     <td>Building groups</td>
   </tr>
   <tr>
-    <td style="text-align:center">21.02. - 04.03.</td>
+    <td >21.02. - 04.03.</td>
     <td>Find 1-3 project ideas and corresponding datasets</td>
   </tr>
   <tr>
-    <td style="text-align:center">04.03. at noon</td>
+    <td >04.03. at noon</td>
     <td>Email ideas to <a href="mailto:rui.mata@unibas.ch?subject=Student project ideas"><b>Rui</b></a></td>
   </tr>
   <tr>
-    <td style="text-align:center">04.03. in the evening</td>
+    <td >04.03. in the evening</td>
     <td>Receive feedback on project ideas</td>
   </tr>
   <tr>
-    <td style="text-align:center">04.03. - 13.03.</td>
+    <td >04.03. - 13.03.</td>
     <td>Prepare project proposal and pitch</td>
   </tr>
   <tr>
-    <td style="text-align:center">13.03.</td>
+    <td >13.03.</td>
     <td>Pitch project proposal</td>
   </tr>
   <tr>
-    <td style="text-align:center">13.03. - 24.04.</td>
+    <td >13.03. - 24.04.</td>
     <td>Project work</td>
   </tr>
   <tr>
-    <td style="text-align:center">24.04.</td>
+    <td >24.04.</td>
     <td>In-class project support</td>
   </tr>
   <tr>
-    <td style="text-align:center">24.04. - 15.05.</td>
+    <td >24.04. - 15.05.</td>
     <td>Finalize project and prepare presentation</td>
   </tr>
   <tr>
-    <td style="text-align:center">15.05.</td>
+    <td >15.05.</td>
     <td>Deliver final presentation</td>
   </tr>
 </table>
