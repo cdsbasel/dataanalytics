@@ -28,7 +28,7 @@ title: Student projects
   </tr>
   <tr>
     <td style="text-align:center">04.03. at noon</td>
-    <td>Email ideas to <a href="mailto:rui.mata@unibas.ch"><b>Rui</b></a></td>
+    <td>Email ideas to <a href="mailto:rui.mata@unibas.ch?subject=Student project ideas"><b>Rui</b></a></td>
   </tr>
   <tr>
     <td style="text-align:center">04.03. in the evening</td>
