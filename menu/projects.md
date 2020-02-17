@@ -3,4 +3,59 @@ layout: page
 title: Student projects
 ---
 
-Soon we will publish a list of student projects here. 
+## Guidelines
+
+1. Develop a specific question about real-world human behavior and address it using existing, publicly available datasets
+2. Choose a topic related to human resources, marketing, consumer behavior and similar domains
+3. Identify data containing human responses (e.g., ratings, reviews, choices, behavior, etc.) from <a href="https://www.kaggle.com/datasets"><b>kaggle</b></a>
+4. Keep to the timeline
+
+## Project timeline
+
+<table>
+  <table cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="text-align:center"><b>When</b></td>
+    <td style="text-align:center"><b>What</b></td>
+  </tr>
+  <tr>
+    <td style="text-align:center">21.02.</td>
+    <td>Building groups</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">21.02. - 04.03.</td>
+    <td>Find 1-3 project ideas and corresponding datasets</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">04.03. at noon</td>
+    <td>Email ideas to <a href="mailto:rui.mata@unibas.ch"><b>Rui</b></a></td>
+  </tr>
+  <tr>
+    <td style="text-align:center">04.03. in the evening</td>
+    <td>Receive feedback on project ideas</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">04.03. - 13.03.</td>
+    <td>Prepare project proposal and pitch</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">13.03.</td>
+    <td>Pitch project proposal</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">13.03. - 24.04.</td>
+    <td>Project work</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">24.04.</td>
+    <td>In-class project support</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">24.04. - 15.05.</td>
+    <td>Finalize project and prepare presentation</td>
+  </tr>
+  <tr>
+    <td style="text-align:center">15.05.</td>
+    <td>Deliver final presentation</td>
+  </tr>
+</table>
