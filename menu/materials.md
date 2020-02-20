@@ -5,6 +5,8 @@ title: Materials
 
 ## Data exploration
 
+<a href="https://raw.githubusercontent.com/cdsbasel/dataanalytics_rsessions/master/dataanalytics_data.zip"><b>Download data</b></a>
+
 <table>
   <table cellspacing="0" cellpadding="0">
   <tr>
