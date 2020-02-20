@@ -5,10 +5,10 @@ title: Materials
 
 ## Session 1: Data exploration
 
-<a href="https://raw.githubusercontent.com/cdsbasel/dataanalytics_rsessions/master/dataanalytics_data.zip"><b>Download data</b></a>
-
 <table>
   <table cellspacing="0" cellpadding="0">
+  <col width="10%">
+  <col width="30%">
   <tr>
     <td style="padding-right:6px;padding-bottom:6px"><b>Session</b></td>
     <td style="padding-right:6px;padding-bottom:6px"><b>Materials</b></td>
