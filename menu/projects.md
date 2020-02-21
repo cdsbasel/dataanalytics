@@ -23,15 +23,15 @@ title: Student projects
     <td>Building groups</td>
   </tr>
   <tr>
-    <td >21.02. - 04.03.</td>
+    <td >21.02. - 05.03.</td>
     <td>Find 1-3 project ideas and corresponding datasets</td>
   </tr>
   <tr>
-    <td >04.03. - <b>noon</b></td>
+    <td >05.03. - <b>noon</b></td>
     <td>Email ideas to <a href="mailto:rui.mata@unibas.ch?subject=Student project ideas"><b>Rui</b></a></td>
   </tr>
   <tr>
-    <td >04.03. - <b>evening</b></td>
+    <td >05.03. - <b>noon</b></td>
     <td>Receive feedback on project ideas</td>
   </tr>
   <tr>

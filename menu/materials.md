@@ -14,6 +14,13 @@ title: Materials
     <td style="padding-right:6px;padding-bottom:6px"><b>Materials</b></td>
   </tr>
   <tr>
+    <td style="padding-right:6px;padding-bottom:6px">Intro</td>
+    <td style="padding-right:6px;padding-bottom:6px">
+      <a href="h../assets/pdf/dataanalyics_FS2020_sessoion1">slides</a>
+    </td>
+  </tr>
+  <tr>
+  <tr>
     <td style="padding-right:6px;padding-bottom:6px">RStudio</td>
     <td style="padding-right:6px;padding-bottom:6px">
       <a href="https://raw.githubusercontent.com/cdsbasel/dataanalytics_rsessions/master/dataanalytics_data.zip">Download data</a>
@@ -35,3 +42,5 @@ title: Materials
   </tr>
 
 </table>
+
+<a href="../assets/pdf/ProvostFawcett2013.pdf">Provost, F., & Fawcett, T. (2013). Data science and its relationship to big data and data-driven decision making. Big Data, 1(1), 51–59.</a>
