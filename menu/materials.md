@@ -42,5 +42,3 @@ title: Materials
   </tr>
 
 </table>
-
-<a href="../assets/pdf/ProvostFawcett2013.pdf">Provost, F., & Fawcett, T. (2013). Data science and its relationship to big data and data-driven decision making. Big Data, 1(1), 51–59.</a>
