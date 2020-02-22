@@ -5,8 +5,8 @@ title: Materials
 
 ## Session 1: Data exploration
 
-<table>
-  <table cellspacing="0" cellpadding="0">
+
+<table cellspacing="0" cellpadding="0">
   <col width="10%">
   <col width="30%">
   <tr>
@@ -40,5 +40,4 @@ title: Materials
       <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/Plotting/Plotting_practical.html">practical</a>
     </td>
   </tr>
-
 </table>
