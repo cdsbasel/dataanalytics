@@ -5,7 +5,6 @@ title: Materials
 
 ## Session 1: Data exploration
 
-
 <table cellspacing="0" cellpadding="0">
   <col width="10%">
   <col width="30%">
