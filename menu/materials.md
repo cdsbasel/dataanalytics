@@ -15,7 +15,7 @@ title: Materials
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">Intro</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="h../assets/pdf/dataanalyics_FS2020_session1.pdf">slides</a>
+      <a href="../assets/pdf/dataanalyics_FS2020_session1.pdf">slides</a>
     </td>
   </tr>
   <tr>
