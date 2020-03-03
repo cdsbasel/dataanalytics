@@ -19,7 +19,6 @@ title: Materials
     </td>
   </tr>
   <tr>
-  <tr>
     <td style="padding-right:6px;padding-bottom:6px">RStudio</td>
     <td style="padding-right:6px;padding-bottom:6px">
       <a href="https://raw.githubusercontent.com/cdsbasel/dataanalytics_rsessions/master/dataanalytics_data.zip">Download data</a>
