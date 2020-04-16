@@ -39,3 +39,34 @@ title: Materials
     </td>
   </tr>
 </table>
+
+
+## Session 2: Statistical modeling machine learning
+
+<table cellspacing="0" cellpadding="0">
+  <col width="10%">
+  <col width="30%">
+  <tr>
+    <td style="padding-right:6px;padding-bottom:6px"><b>Session</b></td>
+    <td style="padding-right:6px;padding-bottom:6px"><b>Materials</b></td>
+  </tr>
+  <tr>
+    <td style="padding-right:6px;padding-bottom:6px">Statistical modeling</td>
+    <td style="padding-right:6px;padding-bottom:6px">
+      <a href="">slides (tba)</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding-right:6px;padding-bottom:6px">What is ML?</td>
+    <td style="padding-right:6px;padding-bottom:6px">
+      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/WhatIsML/WhatIsML.html">slides</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding-right:6px;padding-bottom:6px">Supervised learning</td>
+    <td style="padding-right:6px;padding-bottom:6px">
+      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/SupervisedLearning/SupervisedLearning.html">slides</a>,
+      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/SupervisedLearning/SupervisedLearning_practical.html">practical</a>
+    </td>
+  </tr>
+</table>
