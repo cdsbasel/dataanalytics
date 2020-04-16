@@ -66,6 +66,7 @@ title: Materials
     <td style="padding-right:6px;padding-bottom:6px">Supervised learning</td>
     <td style="padding-right:6px;padding-bottom:6px">
       <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/SupervisedLearning/SupervisedLearning.html">slides</a>,
+      <a href="https://www.dropbox.com/s/oy1qk6ouduys4r9/SupervisedLearning_example.R?dl=1">example</a>,
       <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/SupervisedLearning/SupervisedLearning_practical.html">practical</a>
     </td>
   </tr>
