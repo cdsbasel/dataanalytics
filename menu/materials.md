@@ -100,8 +100,8 @@ title: Materials
       May 3, 2020
     </td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/simpsonsparadox.html">Simpson paradox practical</a>,
-      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/van_de_Pol_2009.pdf">van de Pol & Wright (2009)</a>      
+      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/simpsonsparadox.html">practical</a>,
+      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/van_de_Pol_2009.pdf"><font style="font-size:10px">van de Pol & Wright (2009)</font></a>      
     </td>
   </tr>
   <tr>
@@ -113,7 +113,7 @@ title: Materials
       May 10, 2020
     </td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/SupervisedLearning/SupervisedLearning_practical.html">ML practical</a>  
+      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/SupervisedLearning/SupervisedLearning_practical.html">practical</a>  
     </td>
   </tr>
 </table>
