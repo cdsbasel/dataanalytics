@@ -41,7 +41,7 @@ title: Materials
 </table>
 
 
-## Session 2: Statistical modeling machine learning
+## Session 2: Statistical modeling & machine learning
 
 <table cellspacing="0" cellpadding="0">
   <col width="10%">
@@ -51,9 +51,16 @@ title: Materials
     <td style="padding-right:6px;padding-bottom:6px"><b>Materials</b></td>
   </tr>
   <tr>
-    <td style="padding-right:6px;padding-bottom:6px">Statistical modeling</td>
+    <td style="padding-right:6px;padding-bottom:6px">Causal inference</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      <a href="">slides (tba)</a>
+      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/causalinference.pdf">slides</a>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding-right:6px;padding-bottom:6px">Mixed effects models</td>
+    <td style="padding-right:6px;padding-bottom:6px">
+      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/mixedeffects.pdf">slides</a>.
+      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/intro_lme4.html">R intro</a>
     </td>
   </tr>
   <tr>
@@ -66,8 +73,45 @@ title: Materials
     <td style="padding-right:6px;padding-bottom:6px">Supervised learning</td>
     <td style="padding-right:6px;padding-bottom:6px">
       <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/SupervisedLearning/SupervisedLearning.html">slides</a>,
-      <a href="https://www.dropbox.com/s/oy1qk6ouduys4r9/SupervisedLearning_example.R?dl=1">example</a>,
-      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/SupervisedLearning/SupervisedLearning_practical.html">practical</a>
+      <a href="https://www.dropbox.com/s/oy1qk6ouduys4r9/SupervisedLearning_example.R?dl=1">example</a>
+    </td>
+  </tr>
+</table>
+
+#### Home exercises
+
+<table cellspacing="0" cellpadding="0">
+  <col width="10%">
+  <col width="30%">
+  <tr>
+    <td style="padding-right:6px;padding-bottom:6px"><b>Session</b></td>
+    <td style="padding-right:6px;padding-bottom:6px"><b>Task</b></td>
+    <td style="padding-right:6px;padding-bottom:6px"><b>Deadline</b></td>
+    <td style="padding-right:6px;padding-bottom:6px"><b>Materials</b></td>
+  </tr>
+  <tr>
+    <td style="padding-right:6px;padding-bottom:6px">Mixed effects models</td>
+    <td style="padding-right:6px;padding-bottom:6px">
+      Download and inspect the data. Answer the question in the Simpson's paradox practical the bottom and send the associated code with comments to <a href="mailto:rui.mata@unibas.ch">Rui</a>
+    </td>
+    <td style="padding-right:6px;padding-bottom:6px">
+      May 3, 2020
+    </td>
+    <td style="padding-right:6px;padding-bottom:6px">
+      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/simpsonsparadox.html"Simpson paradox practical</a>,
+      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/van_de_Pol_2009.pdf">van de Pol & Wright (2009)</a>      
+    </td>
+  </tr>
+  <tr>
+    <td style="padding-right:6px;padding-bottom:6px">Machine learning</td>
+    <td style="padding-right:6px;padding-bottom:6px">
+      Complete the practical and send the associated code with comments to <a href="mailto:dirk.wulff@unibas.ch">Dirk</a>
+    </td>
+    <td style="padding-right:6px;padding-bottom:6px">
+      May 10, 2020
+    </td>
+    <td style="padding-right:6px;padding-bottom:6px">
+      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/SupervisedLearning/SupervisedLearning_practical.html">ML practical</a>  
     </td>
   </tr>
 </table>
