@@ -94,13 +94,14 @@ title: Materials
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">Mixed effects models</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      Download and inspect the data. Answer the question in the Simpson's paradox practical the bottom and send the associated code with comments to <a href="mailto:rui.mata@unibas.ch"><b>Rui</b>.</a>
+      Answer the question in the Simpson's paradox practical the bottom and send the associated code with comments to <a href="mailto:rui.mata@unibas.ch"><b>Rui</b>.</a>
     </td>
     <td style="padding-right:6px;padding-bottom:6px">
       May 3, 2020
     </td>
     <td style="padding-right:6px;padding-bottom:6px">
       <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/simpsonsparadox.html">practical</a>,
+      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/simpson.csv">data</a>,
       <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/van_de_Pol_2009.pdf"><font style="font-size:10px">van de Pol & Wright (2009)</font></a>      
     </td>
   </tr>
