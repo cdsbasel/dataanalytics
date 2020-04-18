@@ -82,7 +82,7 @@ title: Materials
 
 <table cellspacing="0" cellpadding="0">
   <col width="20%">
-  <col width="40%">
+  <col width="50%">
   <col width="10%">
   <col width="30%">
   <tr>
