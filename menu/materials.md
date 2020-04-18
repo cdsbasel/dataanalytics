@@ -78,7 +78,7 @@ title: Materials
   </tr>
 </table>
 
-#### Home exercises
+### Home exercises
 
 <table cellspacing="0" cellpadding="0">
   <col width="10%">
