@@ -101,8 +101,8 @@ title: Materials
     </td>
     <td style="padding-right:6px;padding-bottom:6px">
       <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/simpsonsparadox.html">practical</a>,
-      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/simpson.csv">data</a>,
-      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/van_de_Pol_2009.pdf"><font style="font-size:8px">van de Pol & Wright (2009)</font></a>      
+      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/simpson.csv">data</a><br>
+      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/van_de_Pol_2009.pdf"><font style="font-size:12px">van de Pol & Wright (2009)</font></a>      
     </td>
   </tr>
   <tr>
