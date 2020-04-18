@@ -84,7 +84,7 @@ title: Materials
   <col width="15%">
   <col width="50%">
   <col width="10%">
-  <col width="25%">
+  <col width="20%">
   <tr>
     <td style="padding-right:6px;padding-bottom:6px"><b>Session</b></td>
     <td style="padding-right:6px;padding-bottom:6px"><b>Task</b></td>
