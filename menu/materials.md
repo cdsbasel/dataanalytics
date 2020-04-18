@@ -84,7 +84,7 @@ title: Materials
   <col width="10%">
   <col width="40%">
   <col width="10%">
-  <col width="10%">
+  <col width="30%">
   <tr>
     <td style="padding-right:6px;padding-bottom:6px"><b>Session</b></td>
     <td style="padding-right:6px;padding-bottom:6px"><b>Task</b></td>
@@ -94,7 +94,7 @@ title: Materials
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">Mixed effects models</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      Download and inspect the data. Answer the question in the Simpson's paradox practical the bottom and send the associated code with comments to <a href="mailto:rui.mata@unibas.ch">Rui</a>
+      Download and inspect the data. Answer the question in the Simpson's paradox practical the bottom and send the associated code with comments to <a href="mailto:rui.mata@unibas.ch"><b>Rui</b></a>
     </td>
     <td style="padding-right:6px;padding-bottom:6px">
       May 3, 2020
@@ -107,7 +107,7 @@ title: Materials
   <tr>
     <td style="padding-right:6px;padding-bottom:6px">Machine learning</td>
     <td style="padding-right:6px;padding-bottom:6px">
-      Complete the practical and send the associated code with comments to <a href="mailto:dirk.wulff@unibas.ch">Dirk</a>
+      Complete the practical and send the associated code with comments to <a href="mailto:dirk.wulff@unibas.ch"><b>Dirk</b></a>
     </td>
     <td style="padding-right:6px;padding-bottom:6px">
       May 10, 2020
