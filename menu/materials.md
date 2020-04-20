@@ -86,34 +86,34 @@ title: Materials
   <col width="10%">
   <col width="20%">
   <tr>
-    <td style="padding-right:6px;padding-bottom:6px"><b>Session</b></td>
-    <td style="padding-right:6px;padding-bottom:6px"><b>Task</b></td>
-    <td style="padding-right:6px;padding-bottom:6px"><b>Deadline</b></td>
-    <td style="padding-right:6px;padding-bottom:6px"><b>Materials</b></td>
+    <td style="padding-right:6px;padding-bottom:6px;vertical-align:top"><b>Session</b></td>
+    <td style="padding-right:6px;padding-bottom:6px;vertical-align:top"><b>Task</b></td>
+    <td style="padding-right:6px;padding-bottom:6px;vertical-align:top"><b>Deadline</b></td>
+    <td style="padding-right:6px;padding-bottom:6px;vertical-align:top"><b>Materials</b></td>
   </tr>
   <tr>
-    <td style="padding-right:6px;padding-bottom:6px">Mixed effects models</td>
-    <td style="padding-right:6px;padding-bottom:6px">
+    <td style="padding-right:6px;padding-bottom:6px;vertical-align:top">Mixed effects models</td>
+    <td style="padding-right:6px;padding-bottom:6px;vertical-align:top">
       Answer the question in the Simpson's paradox practical the bottom and send the associated code with comments to <a href="mailto:rui.mata@unibas.ch"><b>Rui</b>.</a>
     </td>
-    <td style="padding-right:6px;padding-bottom:6px">
+    <td style="padding-right:6px;padding-bottom:6px;vertical-align:top">
       May 3, 2020
     </td>
-    <td style="padding-right:6px;padding-bottom:6px">
+    <td style="padding-right:6px;padding-bottom:6px;vertical-align:top">
       <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/simpsonsparadox.html">practical</a>,
-      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/simpson.csv">data</a><br>
-      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/van_de_Pol_2009.pdf"><font style="font-size:12px">van de Pol & Wright (2009)</font></a>      
+      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/simpson.csv">data</a>,
+      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/van_de_Pol_2009.pdf"><font style="font-size:12px">paper</font></a>      
     </td>
   </tr>
   <tr>
-    <td style="padding-right:6px;padding-bottom:6px">Machine learning</td>
-    <td style="padding-right:6px;padding-bottom:6px">
+    <td style="padding-right:6px;padding-bottom:6px;vertical-align:top">Machine learning</td>
+    <td style="padding-right:6px;padding-bottom:6px;vertical-align:top">
       Complete the practical and send the associated code with comments to <a href="mailto:dirk.wulff@unibas.ch"><b>Dirk</b>.</a>
     </td>
-    <td style="padding-right:6px;padding-bottom:6px">
+    <td style="padding-right:6px;padding-bottom:6px;vertical-align:top">
       May 10, 2020
     </td>
-    <td style="padding-right:6px;padding-bottom:6px">
+    <td style="padding-right:6px;padding-bottom:6px;vertical-align:top">
       <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/SupervisedLearning/SupervisedLearning_practical.html">practical</a>  
     </td>
   </tr>
