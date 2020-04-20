@@ -94,7 +94,7 @@ title: Materials
   <tr>
     <td style="padding-right:6px;padding-bottom:6px;vertical-align:top">Mixed effects models</td>
     <td style="padding-right:6px;padding-bottom:6px;vertical-align:top">
-      Answer the question in the Simpson's paradox practical the bottom and send the associated code with comments to <a href="mailto:rui.mata@unibas.ch"><b>Rui</b>.</a>
+      Answer the question at the bottom of the Simpson's paradox practical and send the associated code with comments to <a href="mailto:rui.mata@unibas.ch"><b>Rui</b>.</a>
     </td>
     <td style="padding-right:6px;padding-bottom:6px;vertical-align:top">
       May 3, 2020
