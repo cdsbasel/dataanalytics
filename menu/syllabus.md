@@ -53,7 +53,7 @@ td {
 <tr>
   <td style="text-align:center">3</td>
   <td style="text-align:center">24.04.2020</td>
-  <td>Project work</td>
+  <td><a href="https://cdsbasel.github.io/dataanalytics/menu/projects.html">Project meetings</a></td>
 </tr>
 <tr>
   <td style="text-align:center">4</td>
