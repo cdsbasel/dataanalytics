@@ -47,7 +47,7 @@ td {
 </tr>
 <tr>
   <td style="text-align:center">2</td>
-  <td style="text-align:center">13.03.2020</td>
+  <td style="text-align:center">17.04.2020</td>
   <td>Statistical modeling and causal inference; machine learning; student blitz talks</td>
 </tr>
 <tr>
