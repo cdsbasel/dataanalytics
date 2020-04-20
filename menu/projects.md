@@ -10,6 +10,30 @@ title: Student projects
 3. Identify data containing human responses (e.g., ratings, reviews, choices, behavior, etc.) from the <a href="https://www.kaggle.com/datasets"><b>kaggle</b></a> data repository.
 4. Keep to the timeline.
 
+## Project meetings April 24
+
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td><b>When</b></td>
+    <td><b>Who</b></td>
+  </tr>
+  <tr>
+    <td>8am - 9am</td>
+    <td>Daphne & Nieves</td>
+  </tr>
+  <tr>
+    <td >9am - 10am</td>
+    <td>Olivia & Sofia</td>
+  </tr>
+  <tr>
+    <td >10am - 11am</td>
+    <td>Erlinde & Yunrui</td>
+  </tr>
+  <tr>
+    <td >10am - 11am</td>
+    <td>Adrian & Loris</td>
+  </tr>
+</table>
 
 ## Project timeline
 
