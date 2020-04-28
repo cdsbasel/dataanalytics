@@ -3,6 +3,9 @@ layout: page
 title: Meet the expert event
 ---
 
-<img href="assets/img/button.png">
+## Please read before entering webinar
 
-## Rules
+1. Please keep your
+
+
+<img href="https://cdsbasel.github.io/dataanalytics//assets/img/button.png">
