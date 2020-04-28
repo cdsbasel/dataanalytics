@@ -1,11 +1,12 @@
 ---
 layout: page
-title:
+title: Meet the expert
 ---
 
 ## Please read before entering webinar
 
-1. Please keep your microphone muted at all times.
+1. Keep your microphone muted at all times.
+
 2.
 
 
