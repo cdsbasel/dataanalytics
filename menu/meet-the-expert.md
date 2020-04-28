@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Meet the expert
+title: Please read before entering webinar
 ---
-
-## Please read before entering webinar
 
 1. Use Zoom desktop client (<a href="https://unibas.zoom.us/download">**Download**</a>) for better performance.
 
