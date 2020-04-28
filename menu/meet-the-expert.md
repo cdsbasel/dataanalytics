@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Meet the expert event
+title:
 ---
 
 ## Please read before entering webinar
 
-1. Please keep your
+1. Please keep your microphone muted at all times.
+2.
 
 
-<img href="https://cdsbasel.github.io/dataanalytics//assets/img/button.png">
+<img src="assets/img/button.png">
