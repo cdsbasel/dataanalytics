@@ -13,4 +13,6 @@ title: Meet the expert
 
 4. Ask questions through the chat.
 
+<br><br>
+
 <a href="https://unibas.zoom.us/j/99145634711?pwd=M1lEb0djNlhMbHRlR1lZUHVLUVRMUT09"><img src="https://cdsbasel.github.io/dataanalytics//assets/img/button.png"></a>
