@@ -5,11 +5,12 @@ title: Meet the expert
 
 ## Please read before entering webinar
 
-1. Use the Zoom app (<a href="https://unibas.zoom.us/download">**Download**</a>) for 
+1. Use Zoom desktop client (<a href="https://unibas.zoom.us/download">**Download**</a>) for better performance.
 
-2. Keep your microphone muted at all times.
+2. Keep your video off at all times.
 
-3. Ask questions
+3. Keep your microphone muted at all times.
 
+4. Ask questions through the chat.
 
 <a href="https://unibas.zoom.us/j/99145634711?pwd=M1lEb0djNlhMbHRlR1lZUHVLUVRMUT09"><img src="https://cdsbasel.github.io/dataanalytics//assets/img/button.png"></a>
