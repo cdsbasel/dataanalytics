@@ -100,7 +100,7 @@ title: Materials
       May 3, 2020
     </td>
     <td style="padding-right:6px;padding-bottom:6px;vertical-align:top">
-      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/simpsonsparadox.html">practical</a>,
+      <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/simpsonsparadox_solution.html">practical (incl. solution)</a>
       <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/simpson.csv">data</a>,
       <a href="https://cdsbasel.github.io/dataanalytics_rsessions/_sessions/CausalInference/van_de_Pol_2009.pdf">paper</a>      
     </td>
