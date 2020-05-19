@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Please read before entering webinar
+title: Meet the expert
 ---
+
+<!---
+
+title: Please read before entering webinar
 
 1. Use Zoom desktop client (<a href="https://unibas.zoom.us/download">**Download**</a>) for better performance.
 
@@ -13,6 +17,6 @@ title: Please read before entering webinar
 
 <br><br>
 
-<!---<a href="https://unibas.zoom.us/j/99145634711?pwd=M1lEb0djNlhMbHRlR1lZUHVLUVRMUT09"><img src="https://cdsbasel.github.io/dataanalytics//assets/img/button.png"></a>--->
+<a href="https://unibas.zoom.us/j/99145634711?pwd=M1lEb0djNlhMbHRlR1lZUHVLUVRMUT09"><img src="https://cdsbasel.github.io/dataanalytics//assets/img/button.png"></a>--->
 
 <img src="../assets/img/DataAnalytics_MeetTheExpert_March15.png">‚
