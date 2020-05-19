@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meet the expert
+title: Meet the expert event
 ---
 
 <!---
