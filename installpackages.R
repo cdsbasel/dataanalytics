@@ -1,4 +1,4 @@
-https://cdsbasel.github.io/dataanalytics/
+# https://cdsbasel.github.io/dataanalytics/
 
 # Skript um alle nötigen Pakete zu installieren
 
